@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 236｜Black-and-White Geometric Glyph: reduces a photo's subject to three to five key structural cues and rebuilds them as one extremely simple geometric pictogram — a few bold modular blocks with soft rounded corners, where detail is carved out through notches, grooves, cut corners and holes rather than drawn — in strictly black, neutral grey and white with no gradients, textures or other colours, placed very small at the exact centre and surrounded by a vast, unbroken white field, like museum wayfinding or architectural pictogram systems; any text is tiny and kept to the edges. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-236 or asks for black-and-white pictograms, geometric glyphs or modernist wayfinding symbols from a photo.",
+  "short_description": "黑白几何符号：把照片压成正中一枚极小的黑白灰几何符号，四周是连续的白",
+  "zh-CN": {
+    "name": "黑白几何符号",
+    "tagline": "把照片压成正中一枚极小的黑白几何符号，四周是一整片不中断的白。",
+    "look": "照片主体只留下三到五个最关键的结构线索，用少量粗而明确的模块化几何块重新组织成一枚 pictogram：圆角柔和、剪影简洁，细节不靠描画，而是用缺口、凹槽、切角和空洞“挖”出来，没画出的部分也帮助辨认。颜色只有黑、中性灰和白：黑色撑主结构，灰色做次级块面，白色是留白和负形，没有渐变、纹理或其他颜色。符号非常小，安放在正中央，四周是一大片连续的白，像博物馆导视或建筑象形符号。文字若有，只在边缘出现极小的一点。",
+    "traits": ["黑白灰", "几何象形", "极小居中", "负形切割", "博物馆导视", "连续白场"],
+    "good": [
+      "外形有明确结构的主体：一把椅子、一只猫、一座拱门、一辆自行车",
+      "能用几何块表达的建筑和器物：一座塔、一盏灯、一个茶壶",
+      "想做识别系统、导视符号、封面标志或展览图形的照片"
+    ],
+    "poor": [
+      "颜色就是重点的照片：花、晚霞、彩色服饰，结果只有黑白灰",
+      "需要表现情绪、表情或多人关系的照片",
+      "想要大尺寸主体、满版构图或带纹理的插画效果"
+    ]
+  },
+  "en": {
+    "name": "Black-and-White Geometric Glyph",
+    "tagline": "Compresses a photo into one tiny black-and-white geometric glyph at the centre of an unbroken white field.",
+    "look": "Only three to five key structural cues of your subject are kept and rebuilt from a few bold, modular geometric blocks into one pictogram, with soft rounded corners and a clean silhouette. Detail is not drawn but carved out through notches, grooves, cut corners and holes, so the parts left empty also help you recognise it. The only colours are black, neutral grey and white: black for the main structure, grey for secondary blocks and white for space and negative shapes, with no gradients, textures or other colours. The glyph is very small and sits at the exact centre of a vast, continuous white field, like museum wayfinding or an architectural pictogram. Any text is tiny and kept to the edges.",
+    "traits": ["Black, grey and white", "Geometric pictogram", "Tiny and centred", "Negative-space cuts", "Museum wayfinding", "Unbroken white field"],
+    "good": [
+      "Subjects with a clearly structured shape: a chair, a cat, an archway, a bicycle",
+      "Buildings and objects that work as geometric blocks: a tower, a lamp, a teapot",
+      "Photos you want as an identity system, a wayfinding symbol, a cover mark or an exhibition graphic"
+    ],
+    "poor": [
+      "Photos where colour is the point, such as flowers, sunsets or colourful clothing, since only black, grey and white remain",
+      "Photos that need to show emotion, facial expression or relationships between several people",
+      "Requests for a large subject, a full-bleed layout or a textured illustration"
+    ]
+  },
+  "ja": {
+    "name": "白黒の幾何記号",
+    "tagline": "写真を、途切れない白の真ん中に置いたごく小さな白黒の幾何記号に圧縮します。",
+    "look": "主役の構造の手がかりを三〜五つだけ残し、太くはっきりしたモジュール状の幾何ブロック数個でピクトグラムに組み直します。角は柔らかく丸く、シルエットは簡潔です。細部は描かず、切り欠き、溝、面取り、穴で「くり抜き」、描かれていない部分も見分けに役立ちます。色は黒、中間の灰、白だけ。黒が主な構造、灰が二次的な面、白が余白と負の形を受け持ち、グラデーション、質感、ほかの色はありません。記号はとても小さく、画面のちょうど中央に置かれ、まわりは途切れない広大な白で、美術館のサインや建築のピクトグラムのようです。文字があっても、縁にごく小さく入るだけです。",
+    "traits": ["黒・灰・白", "幾何学的ピクトグラム", "ごく小さく中央に", "負の形の切り込み", "美術館のサイン", "途切れない白"],
+    "good": [
+      "外形の構造がはっきりした主役：椅子、猫、アーチ、自転車",
+      "幾何ブロックで表せる建物や道具：塔、ランプ、ティーポット",
+      "ロゴやサイン計画、案内記号、表紙のマーク、展示グラフィックにしたい写真"
+    ],
+    "poor": [
+      "色そのものが見どころの写真：花、夕焼け、カラフルな服（黒・灰・白だけになります）",
+      "感情や表情、複数の人の関係を伝えたい写真",
+      "大きな主役、画面いっぱいの構図、質感のあるイラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "흑백 기하 기호",
+    "tagline": "사진을 끊기지 않는 흰 바탕 한가운데의 아주 작은 흑백 기하 기호로 압축합니다.",
+    "look": "주인공의 핵심 구조 단서를 세 개에서 다섯 개만 남기고, 굵고 분명한 모듈형 기하 블록 몇 개로 픽토그램 하나를 다시 짭니다. 모서리는 부드럽게 둥글고 실루엣은 간결합니다. 세부는 그리지 않고 홈, 파인 곳, 깎은 모서리, 구멍으로 ‘파내어’ 표현하며, 그리지 않은 부분도 알아보는 데 도움이 됩니다. 색은 검정, 중성 회색, 흰색뿐입니다. 검정은 주 구조, 회색은 보조 면, 흰색은 여백과 음형을 맡고, 그러데이션, 질감, 다른 색은 없습니다. 기호는 아주 작게 정중앙에 놓이고 주변은 끊기지 않는 넓은 흰 바탕이라, 박물관 안내 표지나 건축 픽토그램 같습니다. 글자가 있다면 가장자리에 아주 작게만 들어갑니다.",
+    "traits": ["검정·회색·흰색", "기하 픽토그램", "아주 작게 정중앙", "음형 절개", "박물관 안내 표지", "끊기지 않는 흰 바탕"],
+    "good": [
+      "외형 구조가 분명한 주인공: 의자, 고양이, 아치, 자전거",
+      "기하 블록으로 표현할 수 있는 건물과 사물: 탑, 램프, 찻주전자",
+      "아이덴티티 시스템, 안내 기호, 표지 마크, 전시 그래픽으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "색이 핵심인 사진: 꽃, 노을, 화려한 옷(검정, 회색, 흰색만 남습니다)",
+      "감정, 표정, 여러 사람의 관계를 보여 줘야 하는 사진",
+      "큰 주인공, 화면을 꽉 채운 구도, 질감 있는 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رمز هندسي بالأبيض والأسود",
+    "tagline": "يضغط الصورة في رمز هندسي صغير جداً بالأبيض والأسود في وسط مساحة بيضاء متصلة.",
+    "look": "لا يبقى من العنصر الرئيسي إلا ثلاثة إلى خمسة مفاتيح بنيوية، يُعاد بناؤها من بضع كتل هندسية وحدوية جريئة في رمز تصويري واحد، بزوايا مستديرة ناعمة وظل نظيف. لا تُرسم التفاصيل بل تُحفر بالشقوق والأخاديد والزوايا المشطوفة والثقوب، فيساعد ما بقي فارغاً على التعرف عليه أيضاً. الألوان الوحيدة هي الأسود والرمادي المحايد والأبيض: الأسود للبنية الرئيسية، والرمادي للكتل الثانوية، والأبيض للفراغ والأشكال السالبة، دون تدرجات أو ملمس أو ألوان أخرى. الرمز صغير جداً ويقع في المركز تماماً وسط حقل أبيض واسع متصل، كلافتات الإرشاد في المتاحف أو الرموز المعمارية. وإن وُجد نص فهو صغير جداً على الحواف.",
+    "traits": ["أسود ورمادي وأبيض", "رمز تصويري هندسي", "صغير جداً في المركز", "قطع بالفراغ السلبي", "لافتات المتاحف", "حقل أبيض متصل"],
+    "good": [
+      "عناصر واضحة البنية في شكلها: كرسي، قطة، قوس، دراجة",
+      "مبانٍ وأشياء يمكن التعبير عنها بكتل هندسية: برج، مصباح، إبريق شاي",
+      "صور تريدها لنظام هوية أو رمز إرشادي أو علامة غلاف أو تصميم لمعرض"
+    ],
+    "poor": [
+      "صور يكون اللون فيها هو الأساس كالزهور والغروب والملابس الملونة، إذ لا يبقى إلا الأسود والرمادي والأبيض",
+      "صور تحتاج إلى إظهار المشاعر أو تعابير الوجه أو العلاقات بين عدة أشخاص",
+      "طلب عنصر كبير أو تصميم يملأ الإطار أو رسم ذي ملمس"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-236
-description: "Create XXD Panel 236 raster artwork: a faithful photograph paired with a tiny centred black, grey and white geometric pictogram, built from a few rounded modular masses and negative cuts, surrounded by one continuous white field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-236 or asks for this 黑白几何符号 style."
+description: "XXD Panel 236｜Black-and-White Geometric Glyph: reduces a photo's subject to three to five key structural cues and rebuilds them as one extremely simple geometric pictogram — a few bold modular blocks with soft rounded corners, where detail is carved out through notches, grooves, cut corners and holes rather than drawn — in strictly black, neutral grey and white with no gradients, textures or other colours, placed very small at the exact centre and surrounded by a vast, unbroken white field, like museum wayfinding or architectural pictogram systems; any text is tiny and kept to the edges. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-236 or asks for black-and-white pictograms, geometric glyphs or modernist wayfinding symbols from a photo."
 ---
 
 # XXD Panel 236
